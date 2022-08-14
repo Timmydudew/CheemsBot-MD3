@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
+global.owner = ['2348050261876'] //ur owner number
+global.ownername = "Timmy"
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: Timmydudew" //ur github or insta name
+global.location = "Nigeria, Portharcourt, Eliogbolo" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
+global.botname = "Ddraig" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.packname = "Timmy sticker"
+global.author = "Timmy"
+global.themeemoji = "✌️"
+global.reactmoji = "😄"
+global.ownertag = ['2348050261876'] //ur owner tag
+global.ownernummenu = ['2348050261876'] //ur owner number in menu and all
+global.watermark = "Timmy" //ur watermark
+global.botscript = "https://github.com/Timmydudew/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
@@ -96,14 +96,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
+    botAdmin: 'Bot Must Be Admin First! Baka',
+    owner: 'This feature is only for owner Timmy sama',
+    group: 'This feature is only for groups! Baka',
+    private: 'This feature is only for private chats! Baka',
+    bot: 'This feature is only for bot and Timmy sama',
+    wait: 'sending✌️',
+    linkm: 'Where is the link? Bruh',
+    error: 'There was an error Timmy is fixing it',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
